@@ -1,0 +1,101 @@
+h1{
+    text-align: center;
+}
+
+thead{
+    position: center;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 15px;
+    border-radius: 20px;
+    background-color: brown;
+}
+
+tbody{
+    position:center;
+    margin: auto;
+    padding-left: 0px;
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: gray;
+}
+
+th,td {
+    text-align: center;
+    padding: 8px;
+  }
+
+#agregar{
+    width: auto;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: blue;
+    
+}
+
+#agregar:hover{
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+main{
+
+    position: relative;
+    width: 500px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 15px;
+    border-radius: 20px;
+    background-color: gray;
+    margin: auto;
+
+}
+
+body{
+
+    background-color: beige;
+
+}
+
+label{
+    margin: 11px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-shadow: 0px 1px 0px #fff;
+}
+
+input[type=submit]{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 150px;
+    border: 10px;
+    background-color: blue;
+    font: 14px normal normal uppercase helvetica, arial, serif;
+    color: antiquewhite;
+}
+
+a:link, a:visited {
+    margin: 2px;
+    background-color: blue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+  }
+  
+  a:hover, a:active {
+    background-color: lightblue;
+    border-radius: 5px;
+  }
+  #titulo{
+    color: black;
+  }
+
